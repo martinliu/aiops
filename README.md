@@ -5,4 +5,6 @@
 
 ## 白皮书
 
-* [The Definitive Guide to AIOps!](wp/the-definitive-guide-to-aiops-by-ca.md)
+* [AiOps权威指南（Sweetcode）](wp/the-definitive-guide-to-aiops-by-ca.md)
+
+
