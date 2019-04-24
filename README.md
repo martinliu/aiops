@@ -7,12 +7,15 @@
 
 ## 定义
 
-* What is AIOps? Artificial Intelligence for IT Operations Explained https://www.bmc.com/blogs/what-is-aiops/
+* [What is AIOps? Artificial Intelligence for IT Operations Explained]( https://www.bmc.com/blogs/what-is-aiops/ )
 
 ## 白皮书
 
 * [AiOps权威指南（Sweetcode）](wp/the-definitive-guide-to-aiops-by-ca.md)
 
+## 演讲稿
+
+* [AIOps: Steps Towards Autonomous Operations (DEV301-R1) – AWS re:Invent 2018 ](https://www.slideshare.net/AmazonWebServices/aiops-steps-towards-autonomous-operations-dev301r1-aws-reinvent-2018)
 
 ## 参考网站
 
@@ -20,7 +23,7 @@
 
 ## 博客
 
-* BMC AIOps blog https://www.bmc.com/blogs/categories/aiops/
+* [BMC AIOps blog]( https://www.bmc.com/blogs/categories/aiops/)
 
 
 
