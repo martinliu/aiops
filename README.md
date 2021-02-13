@@ -34,9 +34,13 @@
 * [Grok](https://www.grokstream.com/product/)
 
 
-## 翻译团队
+## 比赛
 
-翻译团队人员：刘征、曾云龙、董沙莎、谢波、隋悦豪、朱宝、原驰、周一行。参加本翻译团队的报名方式，加微信号 martinliu_cn ，加入密码 aipos。
+* [http://iops.ai/ AiOps 挑战赛](http://iops.ai/)
+
+## 贡献者
+
+* 《AiOps权威指南》白皮书翻译团队人员：刘征、曾云龙、董沙莎、谢波、隋悦豪、朱宝、原驰、周一行。参加本翻译团队的报名方式，加微信号 martinliu_cn ，加入密码 aipos。
 
 
 ## 参与共建
