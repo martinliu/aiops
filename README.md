@@ -17,7 +17,7 @@
 
 ## 白皮书
 
-* [AiOps权威指南（Sweetcode）](wp/the-definitive-guide-to-aiops-by-ca.md)
+* [AiOps权威指南（Sweetcode）](wp/the-definitive-guide-to-aiops-by-ca.md) [(英文原版pdf)](wp/CA-AIOps-v7.pdf)
 * [GROK-An introduction to AIOps](https://s3-us-west-2.amazonaws.com/groks3/An_Introduction_to_AIOPs.pdf)
 
 
@@ -60,10 +60,18 @@
 * [Grok](https://www.grokstream.com/product/)
 
 
+<<<<<<< HEAD
 
 ## 翻译团队
+=======
+## 比赛
+>>>>>>> f55a4155459b20d16669ac6baac69e821e7ab4ff
 
-翻译团队人员：刘征、曾云龙、董沙莎、谢波、隋悦豪、朱宝、原驰、周一行。参加本翻译团队的报名方式，加微信号 martinliu_cn ，加入密码 aipos。
+* [http://iops.ai/ AiOps 挑战赛](http://iops.ai/)
+
+## 贡献者
+
+* 《AiOps权威指南》白皮书翻译团队人员：刘征、曾云龙、董沙莎、谢波、隋悦豪、朱宝、原驰、周一行。参加本翻译团队的报名方式，加微信号 martinliu_cn ，加入密码 aipos。
 
 
 
