@@ -26,6 +26,8 @@
 
 * 2020
   * Google Cloud Tech： [An introduction to MLOps on Google Cloud](https://www.youtube.com/watch?v=6gdrwFMaEZ0)
+  * CNCF:  [Webinar- MLOps automation with Git Based CI/CD for ML [iguazio]](https://www.youtube.com/watch?v=VCUDo9umKEQ)
+  * 
 
 
 
@@ -55,19 +57,27 @@
 
 
 
+## 代码：
+
+
+
+* https://github.com/mlrun/demo-network-operations
+
+
+
 ## 产品
 
 * [Grok](https://www.grokstream.com/product/)
 
 
-<<<<<<< HEAD
 
-## 翻译团队
-=======
+
 ## 比赛
->>>>>>> f55a4155459b20d16669ac6baac69e821e7ab4ff
+
 
 * [http://iops.ai/ AiOps 挑战赛](http://iops.ai/)
+
+
 
 ## 贡献者
 
