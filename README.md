@@ -15,10 +15,11 @@
 
 
 
-## 白皮书
+## 白皮书&报告
 
 * [AiOps权威指南（Sweetcode）](wp/the-definitive-guide-to-aiops-by-ca.md) [(英文原版pdf)](wp/CA-AIOps-v7.pdf)
 * [GROK-An introduction to AIOps](https://s3-us-west-2.amazonaws.com/groks3/An_Introduction_to_AIOPs.pdf)
+* [2021 年 Gartner AIOps 平台市场指南报告](https://martinliu.cn/blog/market-guide-for-aiops-platforms-2021/)
 
 
 
@@ -62,6 +63,7 @@
 
 
 * https://github.com/mlrun/demo-network-operations
+* https://github.com/mrdbourke/machine-learning-roadmap ML 学习教程和资源脑图
 
 
 
